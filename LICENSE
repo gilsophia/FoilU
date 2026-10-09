@@ -1,0 +1,56 @@
+FoilU/电电你的 — Photoshop 电化铝烫色模拟插件
+FoilU / Dian Dian Ni De — Hot Stamping Foil Simulation Plugin for Photoshop
+
+作者 / Author: Gil_Sophia
+联系方式 / Contact: gsophia4374@gmail.com
+
+第一部分：源代码及软件 — All rights reserved
+PART I: SOURCE CODE AND SOFTWARE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Gil_Sophia. All rights reserved.
+
+本部分适用于 FoilU 的源代码、面板界面、WebGL 渲染器、Photoshop 宿主脚本、安装程序以及除第二部分烫材库以外的软件资源。源代码及软件不采用开源许可。
+
+仅限个人在授权设备上安装并正常使用本软件进行创作。未经作者书面许可，不得复制、传播、发布、出租、转售、修改、反编译、反汇编本软件或创建软件衍生作品，不得将软件用于商业用途或捆绑分发，不得移除版权声明、作者署名及联系方式。商业使用、二次开发及其他许可请联系作者。
+
+本部分限制不适用于第二部分所列烫材库。烫材库的开放许可不会授予源代码或其他软件资源的开放使用权。
+
+本软件按“现状”提供，不附带任何明示或默示担保，包括适销性、特定用途适用性及不侵权的担保。在适用法律允许的范围内，作者不承担因使用或无法使用软件造成的损失。
+
+This part applies to the FoilU source code, panel interface, WebGL renderer, Photoshop host scripts, installers and software resources other than the foil material library covered by Part II. The source code and software are not open source.
+
+Personal installation and normal use on authorized devices are permitted. Without the author's prior written permission, copying, distribution, publication, rental, resale, modification, decompilation, disassembly, creation of software derivatives, commercial use or bundled distribution of the software are prohibited. Copyright notices, attribution and contact information must not be removed. Contact the author for commercial, development or other permissions.
+
+These restrictions do not apply to the material library in Part II. Its open license grants no open-license rights to the source code or other software resources.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR IS NOT LIABLE FOR LOSSES ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE.
+
+第二部分：烫材库 — CC BY 4.0 开放许可
+PART II: FOIL MATERIAL LIBRARY — CC BY 4.0 OPEN LICENSE
+
+随 FoilU 发布的 materials/ 目录中的电化铝材质贴图，以及 thumbs/ 中由这些贴图生成的预建缩略图，采用 Creative Commons Attribution 4.0 International（知识共享署名 4.0 国际，CC BY 4.0）许可。烫色素材库署名：麦德龙纸片批发超市。
+
+允许复制、分享、修改和商业使用，可独立于 FoilU 插件使用。使用或再分发时须合理署名，提供许可链接，并说明是否作过修改；保留随素材提供的既有署名、版权及许可信息。不得暗示作者或素材贡献者为使用者背书，不得添加限制他人行使许可权利的法律或技术措施。
+
+建议署名：FoilU/电电你的烫色素材库，署名：麦德龙纸片批发超市；素材贡献者见 README 鸣谢及素材随附署名；许可：CC BY 4.0；修改情况：按实际情况注明。
+
+鸣谢：麦德龙私家车群友、Seo、麦师傅、猫师傅、秋前、北辰、和其他提供烫色素材/协助测试的电化铝狱友。
+
+本部分仅覆盖随插件发布的烫材库及其预建缩略图，不自动覆盖用户自行上传的自定义素材、工作目录中的原始资料、商标或第三方独立权利。用户自定义素材的权利与许可由其各自权利人决定。
+
+本段为授权范围与许可摘要。CC BY 4.0 的完整法律文本通过下方链接纳入本许可；本摘要与正式法律文本不一致时，以正式法律文本为准。
+
+The foil texture images distributed in materials/ and their prebuilt thumbnails in thumbs/ are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Copying, sharing, adaptation and commercial use are permitted, including use independently of FoilU. Provide appropriate attribution and a license link, indicate modifications, and retain existing attribution, copyright and license information supplied with the materials. Do not imply endorsement by the author or contributors or impose additional legal or technological restrictions on the licensed rights.
+
+Suggested attribution: FoilU / Dian Dian Ni De foil material library, attribution: 麦德龙纸片批发超市; contributors listed in the README acknowledgements and any accompanying credits; CC BY 4.0; modifications identified as applicable.
+
+This part covers only the distributed material library and its prebuilt thumbnails. It does not automatically apply to user-uploaded custom materials, original working files, trademarks or independent third-party rights. Custom materials remain subject to their respective rights holders' permissions.
+
+This section summarizes the scope and license. The complete CC BY 4.0 legal code is incorporated by reference below and governs in case of any inconsistency with this summary.
+
+许可说明 / License deed:
+https://creativecommons.org/licenses/by/4.0/
+完整法律文本 / Complete legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
